@@ -6,10 +6,10 @@ To use them put the .py file in the GIMP plugin folder see [this guide](http://e
 
 The two images must be registered before with an exteranla tool (see [image registration](http://en.wikipedia.org/wiki/Image_registration)).
 
-#ResizeRescaleCenterLayers
+###ResizeRescaleCenterLayers
 In some case (e.g. when you use GIS software) exported images are registered but don't have the same scale.The first plug-in simply center an rescale the images so the can be compared with the second plug-in.
 
-##CompareImageAdv 
+###CompareImageAdv 
 It basically allows to place images side by side and eventually automatically palce a marker (arrows, circles, etc. etc.) in every images in the same point over all the images. 
 
 Click on the image to see a youtube tutorial.
